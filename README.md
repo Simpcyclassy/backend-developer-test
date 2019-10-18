@@ -11,7 +11,7 @@ npm i
 
 npm run start:dev
 ```
-## Link to documentation
+## Link to heroku
 
 ```
 https://premierleaguez-pr-10.herokuapp.com/
