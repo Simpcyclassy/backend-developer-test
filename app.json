@@ -1,20 +1,7 @@
 {
     "name": "backend-developer-test",
     "description": " API that serves the latest scores of fixtures of matches in a Mock Premier League",
-    "env": {
-        "MONGODB_URI": {
-          "required": true
-        },
-        "PORT": {
-          "required": true
-        },
-        "REDISCLOUD_URL": {
-          "required": true
-        },
-        "SECRET": {
-          "required": true
-        }
-    },
+    "env": {},
     "formation": {
       "web": {
         "quantity": 1
