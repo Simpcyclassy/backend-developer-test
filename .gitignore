@@ -5,3 +5,5 @@ coverage
 dist/
 build/
 .vscode
+.idea/
+.DS_Store

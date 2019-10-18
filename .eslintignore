@@ -1,0 +1,15 @@
+src/test
+.gitignore
+.dockerignore
+HISTORY.txt
+README.txt
+node_modules/
+.env
+index.js
+.idea/
+.vs_code/
+.DS_Store
+build/
+coverage/
+dist/
+.nyc_output/

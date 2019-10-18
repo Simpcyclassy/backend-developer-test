@@ -1,4 +1,7 @@
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/simpcyclassy/backend-developer-test) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/simpcyclassy/backend-developer-test)
+[![Build Status](https://travis-ci.org/Simpcyclassy/backend-developer-test.svg?branch=master)](https://travis-ci.org/Simpcyclassy/backend-developer-test) 
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/simpcyclassy/backend-developer-test) 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/simpcyclassy/backend-developer-test) 
+[![Coverage Status](https://coveralls.io/repos/github/Simpcyclassy/backend-developer-test/badge.svg?branch=master)](https://coveralls.io/github/Simpcyclassy/backend-developer-test?branch=master) 
 
 ## How to start the server
 
