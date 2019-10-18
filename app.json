@@ -1,8 +1,7 @@
 {
     "name": "backend-developer-test",
     "description": " API that serves the latest scores of fixtures of matches in a Mock Premier League",
-    "env": {}
-    },
+    "env": {},
     "formation": {
       "web": {
         "quantity": 1
