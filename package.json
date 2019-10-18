@@ -30,6 +30,7 @@
   "dependencies": {
     "@babel/runtime": "^7.4.5",
     "@hapi/joi": "^15.1.0",
+    "app-root-path": "^2.2.1",
     "bcryptjs": "^2.4.3",
     "core-js": "^3.3.2",
     "cors": "^2.8.5",
