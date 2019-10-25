@@ -14,20 +14,20 @@ npm run start:dev
 ## Link to heroku
 
 ```
-https://premierleaguez.herokuapp.com/
+[premierleaguez](https://premierleaguez.herokuapp.com/)
 ```
 
 
 ## Link to documentation
 
 ```
-https://backenddevelopertest.docs.apiary.io/
+[backenddevelopertest](https://backenddevelopertest.docs.apiary.io/)
 ```
 
 ## Link to docker build
 
 ```
-https://hub.docker.com/r/simpcyclassy/backend-developer-test
+[backend-developer-test](https://hub.docker.com/r/simpcyclassy/backend-developer-test)
 ``` 
 
 # Software Developer Application Test
